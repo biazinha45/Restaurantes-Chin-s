@@ -1,0 +1,53 @@
+/* Define a cor de fundo e a cor do texto para o corpo da página */
+body {
+    background-color: #991515;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estiliza o cabeçalho */
+header {
+    padding: 20px;
+}
+
+/* Estiliza a barra de navegação */
+nav {
+    background-color: #B22222;
+    padding: 10px;
+}
+
+/* Estiliza os links da navegação */
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 18px;
+}
+
+/* Estiliza a logotipo */
+.logo {
+    max-width: 150px;
+    margin-top: 20px;
+}
+
+/* Estiliza o conteúdo principal */
+main {
+    padding: 20px;
+}
+
+/* Estiliza as seções */
+section {
+    margin-bottom: 40px;
+}
+
+/* Estiliza o rodapé */
+footer {
+    background-color: #B22222;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
